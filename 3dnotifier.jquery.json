@@ -1,7 +1,7 @@
 {
   "name": "3dnotifier",
   "title": "3D Drop In Notifier Panel",
-  "description": " 3D Notifier lets you broadcast important information to your visitors using a drop down panel that appears at the top of the page. It gently scrolls the page to the top before revealing the panel in a 3D fashion. The panel contents can either be defined inline on the page, or entirely inside an external file and fetched via Ajax. Two modes of appearing are supported- "manual", where you explicitly open/close the panel, or automatic, where the panel appears automatically once per browser session to each visitor.",
+  "description": " 3D Notifier lets you broadcast important information to your visitors using a drop down panel that appears at the top of the page. It gently scrolls the page to the top before revealing the panel in a 3D fashion. The panel contents can either be defined inline on the page, or entirely inside an external file and fetched via Ajax. Two modes of appearing are supported- 'manual', where you explicitly open/close the panel, or automatic, where the panel appears automatically once per browser session to each visitor.",
   "keywords": ["modal", "alert", "notification"],
   "version": "1.1.0",
   "author": {
